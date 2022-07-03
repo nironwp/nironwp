@@ -12,3 +12,5 @@
 
 ### About me
 I'm a {frontend} developer
+
+![Snake animation](https://github.com/rafaballerini/nironwp/blob/output/github-contribution-grid-snake.svg)

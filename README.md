@@ -41,9 +41,9 @@ Sou um desenvolvedor {frontend}
 <h2 align="left">:heart: Vamos nos conectar:</h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/nironwp)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-mendes-souza-3171b6237/)]([https://www.linkedin.com/in/fagnerpsantos/](https://www.linkedin.com/in/pedro-lucas-mendes-souza-3171b6237/))
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)]([https://www.youtube.com/user/TreinaWeb](https://www.youtube.com/channel/UCMmCFRIIBN4F1dOlLZMUFyg))
-[![Instagram Badge](https://img.shields.io/badge/-@pedro-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrokkkkkkkjj)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-mendes-souza-3171b6237/)](https://www.linkedin.com/in/pedro-lucas-mendes-souza-3171b6237/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/channel/UCMmCFRIIBN4F1dOlLZMUFyg)
+[![Instagram Badge](https://img.shields.io/badge/-@pedro-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrokkkkkkkjj)](https://www.instagram.com/pedrokkkkkkkjj)
 
 ![Snake animation](https://github.com/nironwp/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   

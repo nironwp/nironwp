@@ -9,7 +9,6 @@
 
 ### Sobre mim
 Sou um desenvolvedor {frontend}
-![Jokes Card](https://readme-jokes.vercel.app/api)
 - Nome: Pedro Lucas Mendes S.
 - Minha idade: 15 Anos
 - Apaixonado por: Tecnologia, hacking, robótica, filmes e séries

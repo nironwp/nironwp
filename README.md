@@ -46,4 +46,8 @@ Sou um desenvolvedor {frontend}
 [![Instagram Badge](https://img.shields.io/badge/-@pedro-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/pedrokkkkkkkjj)](https://www.instagram.com/pedrokkkkkkkjj)
 
 ![Snake animation](https://github.com/nironwp/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
+ 
+### Meus Projetos, mais recentes
+<ul>
+    <li> https://github.com/nironwp/Loopstudios</li>
+</ul>

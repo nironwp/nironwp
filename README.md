@@ -49,6 +49,5 @@ Sou um desenvolvedor {frontend}
  
 ### Meus Projetos, mais recentes
 <ul>
-    <li>Loopstudios Landing Page: https://github.com/nironwp/Loopstudios</li>
-    <li>Localização geografica via Ip: https://github.com/nironwp/ipgeolocation</li>
+    
 </ul>

@@ -1,4 +1,4 @@
-cat infos.rs
+cat main.rs
 ```rust
 fn main() {
     greetings()

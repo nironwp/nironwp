@@ -1,11 +1,44 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+cat infos.rs
+```rust
+fn main() {
+    greetings()
+}
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+pub fn greetings() {
+    println!("Hello 💊,  \n");
+    langs();
+}
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=nironwp)
+pub fn langs() {
+    println!(
+        "
+        Javascript \n
+        Typescript \n
+        Java \n
+        Rust  \n
+        Django \n
+        Nestjs \n
+        React \n
+        Next \n
+        Springboot \n
+        Redux \n
+        Node \n
+        Nest \n
+        express \n
+        fastify \n
+    "
+    );
+    ascci();
+}
 
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/nironwp/)
+pub fn ascci ()  {
+    println!(
+        r"
+        ___        _
+        | _ \___ __| |_ _ ___
+        |  _/ -_) _` | '_/ _ \
+        |_| \___\__,_|_| \___/
+        "
+    )
+}
+```

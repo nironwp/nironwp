@@ -1,44 +1,49 @@
-cat main.rs
+cat lib.rs
 ```rust
-fn main() {
-    greetings()
+struct MoreAboutMe {
+    technologies: Technologies,
 }
 
-pub fn greetings() {
-    println!("Hello 💊,  \n");
-    langs();
+impl MoreAboutMe {
+    fn index() -> MoreAboutMe {
+        MoreAboutMe {
+            technologies: Technologies {
+                frontend: Frontend {
+                    javascript: vec!["React", "Next", "Redux"],
+                    css: vec!["Materialize", "Tailwind", "Styled-components", "Bootstrap"],
+                },
+                backend: Backend {
+                    java: vec!["Springboot"],
+                    javascript: vec!["Node", "Nest", "Express", "Fastify"],
+                    rust: vec!["Shuttle", "Rocket", "Actix"],
+                    python: vec!["Django"],
+                },
+                db: vec!["MongoDB", "Postgres", "MySQL", "Sqlite"],
+                dev_ops: vec!["Docker", "AWS", "Azure", "GCP"],
+                misc: vec!["Firebase", "Socket.IO", "Postman", "Insomnia", "Xampp", "Eclipse", "Nginx", "Apache"],
+            },
+        }
+    }
 }
 
-pub fn langs() {
-    println!(
-        "
-        Javascript \n
-        Typescript \n
-        Java \n
-        Rust  \n
-        Django \n
-        Nestjs \n
-        React \n
-        Next \n
-        Springboot \n
-        Redux \n
-        Node \n
-        Nest \n
-        express \n
-        fastify \n
-    "
-    );
-    ascci();
+struct Technologies {
+    frontend: Frontend,
+    backend: Backend,
+    db: Vec<&str>,
+    dev_ops: Vec<&str>,
+    misc: Vec<&str>,
 }
 
-pub fn ascci ()  {
-    println!(
-        r"
-        ___        _
-        | _ \___ __| |_ _ ___
-        |  _/ -_) _` | '_/ _ \
-        |_| \___\__,_|_| \___/
-        "
-    )
+struct Frontend {
+    javascript: Vec<&str>,
+    css: Vec<&str>,
 }
+
+struct Backend {
+    java: Vec<&str>,
+    javascript: Vec<&str>,
+    rust: Vec<&str>,
+    python: Vec<&str>,
+}
+
 ```
